@@ -2,7 +2,7 @@
 
 ## 2 link planar manipulator example (2-DoF)
 
-<img width="666" height="400" alt="image" src="https://github.com/user-attachments/assets/4d727d28-2cc0-4901-99aa-b7a712daf959" />
+<img width="666" height="400" alt="image" src="https://github.com/user-attachments/assets/4d727d28-2cc0-4901-99aa-b7a712daf959" /> <br>
 source: https://www.youtube.com/watch?v=NjAAKruKiQM&t=1757s
 
 In this image, we can assign the upper arm and the forearm of the robotic arm as "a1" and "a2" respectively. Coordinates x and y designated by the point E would be the position of the wrist.
